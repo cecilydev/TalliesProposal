@@ -1,0 +1,7 @@
+{
+  "name": "Tallies",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
